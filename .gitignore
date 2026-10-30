@@ -1,0 +1,16 @@
+# 本机生成内容
+.DS_Store
+__pycache__/
+*.pyc
+
+# 不应发布的凭据、订阅与完整小火箭配置
+.env
+.env.*
+*.key
+*.pem
+*.conf
+secrets/
+subscriptions/
+proxy_provider/
+
+# 忽略列表不是完整的敏感内容检查，发布前仍须核对文件
