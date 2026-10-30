@@ -1,0 +1,44 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml | a5f9d0dd4e265d6542b101f59f5788082d8db3c99230cf6dd69a15005dfead88
+# 相关许可：LICENSE_MetaCubeX.txt
+---
+payload:
+- "+.bytedapm.com"
+- "+.muscdn.com"
+- "+.musical.ly"
+- "+.tik-tokapi.com"
+- "+.tiktok-minis.com"
+- "+.tiktok-row.net"
+- "+.tiktok.com"
+- "+.tiktokcdn-eu.com"
+- "+.tiktokcdn-us.com"
+- "+.tiktokcdn.com"
+- "+.tiktokd.net"
+- "+.tiktokd.org"
+- "+.tiktokeu-cdn.com"
+- "+.tiktokglobalshopv.com"
+- "+.tiktokminis.us"
+- "+.tiktokrow-cdn.com"
+- "+.tiktokv.com"
+- "+.tiktokv.eu"
+- "+.tiktokv.us"
+- "+.tiktokw.eu"
+- "+.tiktokw.us"
+- "+.ttcdn-us.com"
+- "+.ttlivecdn.com"
+- "+.ttoverseaus.net"
+- "+.ttwstatic.com"
+- "+.tiktokcdn-us.com.edgesuite.net"
+- "+.tiktokcdn.com.akamaized.net"
+- "+.tiktokcdn.com.edgesuite.net"
+- "+.tiktokv.com.edgekey.net"
+- "+.tiktokv.com.edgesuite.net"
+- p16-tiktokcdn-com.akamaized.net
+- p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
+- roovza-launches.appsflyersdk.com
+- roovza.inapps.appsflyersdk.com
+- roovza.launches.appsflyersdk.com
+- roovza.skadsdk.appsflyersdk.com
+- "+.analytics.tiktok.com"

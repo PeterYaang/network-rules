@@ -1,0 +1,10 @@
+# 规则名单，不是完整客户端配置。
+# 状态：1028基线快照，不代表已修复分流方案。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：openclash-1028-copy | verge-1028-copy
+---
+payload:
+- "+.vultr.com"
+- "+.astrill.org"
+- "+.surfshark.com"
+- "+.sspanel.net"

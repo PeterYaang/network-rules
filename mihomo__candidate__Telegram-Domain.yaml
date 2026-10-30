@@ -1,0 +1,28 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml | 4712014d6fcb434daf8b03b4740e37445109b42bc0e824f6acbce733ef92abb0
+# 相关许可：LICENSE_MetaCubeX.txt
+---
+payload:
+- "+.cdn-telegram.org"
+- "+.comments.app"
+- "+.contest.com"
+- "+.fragment.com"
+- "+.graph.org"
+- "+.quiz.directory"
+- "+.t.me"
+- "+.tdesktop.com"
+- "+.telega.one"
+- "+.telegra.ph"
+- "+.telegram-cdn.org"
+- "+.telegram.dog"
+- "+.telegram.me"
+- "+.telegram.org"
+- "+.telegram.space"
+- "+.telesco.pe"
+- "+.tg.dev"
+- "+.ton.org"
+- "+.toncenter.com"
+- "+.tx.me"
+- "+.usercontent.dev"

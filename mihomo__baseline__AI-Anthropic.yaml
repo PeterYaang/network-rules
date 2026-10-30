@@ -1,0 +1,21 @@
+# 规则名单，不是完整客户端配置。
+# 状态：1028基线快照，不代表已修复分流方案。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：openclash-1028-copy | verge-1028-copy
+---
+payload:
+- "+.anthropic.com"
+- "+.claude.ai"
+- "+.claude.com"
+- "+.clau.de"
+- "+.claudemcpclient.com"
+- "+.claudemcpcontent.com"
+- "+.claudeusercontent.com"
+- "+.anthropic.com.cdn.cloudflare.net"
+- "+.servd-anthropic-website.b-cdn.net"
+- "+.anthropic.auth0.com"
+- "+.anthropic-com.ghost.io"
+- "+.browser-intake-us5-datadoghq.com"
+- "+.cdn.usefathom.com"
+- "+.http-intake.logs.us5.datadoghq.com"
+- cdn.usefathom.com

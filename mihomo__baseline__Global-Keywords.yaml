@@ -1,0 +1,45 @@
+# 规则名单，不是完整客户端配置。
+# 状态：1028基线快照，不代表已修复分流方案。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：openclash-1028-copy | verge-1028-copy
+---
+payload:
+- DOMAIN-KEYWORD,amazon
+- DOMAIN-KEYWORD,avoddashs
+- DOMAIN-KEYWORD,bbcfmt
+- DOMAIN-KEYWORD,jav
+- DOMAIN-KEYWORD,musical.ly
+- DOMAIN-KEYWORD,pinterest
+- DOMAIN-KEYWORD,tiktok
+- DOMAIN-KEYWORD,twimg
+- DOMAIN-KEYWORD,voddazn
+- DOMAIN-KEYWORD,wikileaks
+- DOMAIN-KEYWORD,1drv
+- DOMAIN-KEYWORD,1e100
+- DOMAIN-KEYWORD,abema
+- DOMAIN-KEYWORD,appledaily
+- DOMAIN-KEYWORD,avtb
+- DOMAIN-KEYWORD,beetalk
+- DOMAIN-KEYWORD,blogspot
+- DOMAIN-KEYWORD,dlercloud
+- DOMAIN-KEYWORD,dropbox
+- DOMAIN-KEYWORD,facebook
+- DOMAIN-KEYWORD,fbcdn
+- DOMAIN-KEYWORD,gmail
+- DOMAIN-KEYWORD,google
+- DOMAIN-KEYWORD,instagram
+- DOMAIN-KEYWORD,onedrive
+- DOMAIN-KEYWORD,paypal
+- DOMAIN-KEYWORD,porn
+- DOMAIN-KEYWORD,sci-hub
+- DOMAIN-KEYWORD,skydrive
+- DOMAIN-KEYWORD,spotify
+- DOMAIN-KEYWORD,telegram
+- DOMAIN-KEYWORD,ttvnw
+- DOMAIN-KEYWORD,twitter
+- DOMAIN-KEYWORD,uk-live
+- DOMAIN-KEYWORD,whatsapp
+- DOMAIN-KEYWORD,youtube
+- DOMAIN-KEYWORD,datadog
+- DOMAIN-KEYWORD,sentry
+- DOMAIN-KEYWORD,sift

@@ -1,0 +1,31 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/twitter.yaml | e21969caac51ecd0534345a8b19166d7a0c31cd595a8eef167e1d82f5ed1d414
+# 相关许可：LICENSE_MetaCubeX.txt
+---
+payload:
+- "+.twitter.jp"
+- "+.twitter.biz"
+- "+.pscp.tv"
+- "+.t.co"
+- "+.tellapart.com"
+- "+.tweetdeck.com"
+- "+.twimg.com"
+- "+.twittercommunity.com"
+- "+.x.com"
+- "+.twitter.com"
+- "+.periscope.tv"
+- "+.cms-twdigitalassets.com"
+- "+.twitpic.com"
+- "+.twitterflightschool.com"
+- "+.twitterinc.com"
+- "+.twitteroauth.com"
+- "+.twitterstat.us"
+- "+.twtrdns.net"
+- "+.twttr.com"
+- "+.twttr.net"
+- "+.twvid.com"
+- "+.vine.co"
+- "+.twitter.map.fastly.net"
+- "+.ads-twitter.com"

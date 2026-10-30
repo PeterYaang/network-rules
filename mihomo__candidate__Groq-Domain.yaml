@@ -1,0 +1,8 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/groq.yaml | 1b26a3102ae71b2725d802500f026e3b30e5d566d882e6f8fc5a650077b13cb9
+# 相关许可：LICENSE_MetaCubeX.txt
+---
+payload:
+- "+.groq.com"
