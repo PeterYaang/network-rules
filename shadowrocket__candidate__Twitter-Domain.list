@@ -1,0 +1,29 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/twitter.yaml | e21969caac51ecd0534345a8b19166d7a0c31cd595a8eef167e1d82f5ed1d414
+# 相关许可：LICENSE_MetaCubeX.txt
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,twitter.map.fastly.net
+DOMAIN-SUFFIX,ads-twitter.com

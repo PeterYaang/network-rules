@@ -1,0 +1,16 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/whatsapp.yaml | 91cf23a84c186c66f86908ad1b3b7658f325bd16c82b1c60f753ac43575513fe
+# 相关许可：LICENSE_MetaCubeX.txt
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,whatsapp-plus.info
+DOMAIN-SUFFIX,whatsapp-plus.me
+DOMAIN-SUFFIX,whatsapp-plus.net
+DOMAIN-SUFFIX,whatsapp.cc
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.info
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.org
+DOMAIN-SUFFIX,whatsapp.tv
+DOMAIN-SUFFIX,whatsappbrand.com

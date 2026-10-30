@@ -1,0 +1,13 @@
+# 规则名单，不是完整客户端配置。
+# 状态：1028基线快照，不代表已修复分流方案。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：openclash-1028-copy | verge-1028-copy
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
+DOMAIN-SUFFIX,one.one.one.one
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,dns.nextdns.io
+DOMAIN-SUFFIX,dns.adguard-dns.com
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.pub

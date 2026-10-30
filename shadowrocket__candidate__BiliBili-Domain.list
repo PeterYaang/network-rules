@@ -1,0 +1,58 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bilibili.yaml | d50190957169dab46966df8572bec3a8ab95714b220bf50ac5e8a86fb225a7df
+# 相关许可：LICENSE_MetaCubeX.txt
+DOMAIN-SUFFIX,bilicomic.com
+DOMAIN-SUFFIX,bilicomics.com
+DOMAIN-SUFFIX,maoer.com
+DOMAIN-SUFFIX,missevan.com
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,animetamashi.cn
+DOMAIN-SUFFIX,animetamashi.com
+DOMAIN-SUFFIX,anitama.cn
+DOMAIN-SUFFIX,anitama.net
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,bigfun.cn
+DOMAIN-SUFFIX,bigfunapp.cn
+DOMAIN-SUFFIX,bili22.cn
+DOMAIN-SUFFIX,bili2233.cn
+DOMAIN-SUFFIX,bili23.cn
+DOMAIN-SUFFIX,bili33.cn
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.cc
+DOMAIN-SUFFIX,bilibili.cn
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.net
+DOMAIN-SUFFIX,bilibilipay.cn
+DOMAIN-SUFFIX,bilibilipay.com
+DOMAIN-SUFFIX,biligo.com
+DOMAIN-SUFFIX,huasheng.cn
+DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,updream.cn
+DOMAIN-SUFFIX,yo9.com
+DOMAIN-SUFFIX,bilicdn1.com
+DOMAIN-SUFFIX,bilicdn2.com
+DOMAIN-SUFFIX,bilicdn3.com
+DOMAIN-SUFFIX,bilicdn4.com
+DOMAIN-SUFFIX,bilicdn5.com
+DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.net
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,hdslb.org
+DOMAIN-SUFFIX,maoercdn.com
+DOMAIN-SUFFIX,mincdn.com
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,biligame.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,dreamcast.hk
+DOMAIN,upos-hz-mirrorakam.akamaized.net

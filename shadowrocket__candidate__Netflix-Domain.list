@@ -1,0 +1,29 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.yaml | 8df5a09035034ed72169f566ccc08779f30cebc2bf47681bf512fceef1296a68
+# 相关许可：LICENSE_MetaCubeX.txt
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,netflix.ca
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,netflixinvestor.com
+DOMAIN-SUFFIX,netflixtechblog.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,netflixdnstest0.com
+DOMAIN-SUFFIX,netflixdnstest1.com
+DOMAIN-SUFFIX,netflixdnstest2.com
+DOMAIN-SUFFIX,netflixdnstest3.com
+DOMAIN-SUFFIX,netflixdnstest4.com
+DOMAIN-SUFFIX,netflixdnstest5.com
+DOMAIN-SUFFIX,netflixdnstest6.com
+DOMAIN-SUFFIX,netflixdnstest7.com
+DOMAIN-SUFFIX,netflixdnstest8.com
+DOMAIN-SUFFIX,netflixdnstest9.com
+DOMAIN-SUFFIX,netflixdnstest10.com
+DOMAIN-SUFFIX,netflix.com.edgesuite.net

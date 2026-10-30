@@ -1,0 +1,17 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.yaml | 12a1e7bd189fc23db25e9ac45f3bb8e9a5978048541a0358a46ef72b110812ae
+# 相关许可：LICENSE_MetaCubeX.txt
+IP-CIDR,91.105.192.0/23,no-resolve
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/21,no-resolve
+IP-CIDR,91.108.16.0/21,no-resolve
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,95.161.64.0/20,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,185.76.151.0/24,no-resolve
+IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:b28:f23c::/47,no-resolve
+IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2a0a:f280::/32,no-resolve

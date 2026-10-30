@@ -1,0 +1,17 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/reddit.yaml | f9a29e5feefa0ff76887c7a8a3d581e68fef0df06b3fdb3173905b557c319ed3
+# 相关许可：LICENSE_MetaCubeX.txt
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditblog.com
+DOMAIN-SUFFIX,reddithelp.com
+DOMAIN-SUFFIX,redditinc.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditstatus.com
+DOMAIN-SUFFIX,reddit.app.link
+DOMAIN-SUFFIX,reddit.map.fastly.net

@@ -1,0 +1,10 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/perplexity.yaml | d86f0c26d28c0ed0b77b4fd9365b8a648233370c295588fa34a86ba853870d5a
+# 相关许可：LICENSE_MetaCubeX.txt
+DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
+DOMAIN,pplx-res.cloudinary.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai

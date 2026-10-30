@@ -1,0 +1,26 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml | 4712014d6fcb434daf8b03b4740e37445109b42bc0e824f6acbce733ef92abb0
+# 相关许可：LICENSE_MetaCubeX.txt
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,fragment.com
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,toncenter.com
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,usercontent.dev

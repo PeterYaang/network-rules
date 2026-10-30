@@ -1,0 +1,21 @@
+# 规则名单，不是完整客户端配置。
+# 状态：1028基线快照，不代表已修复分流方案。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：shadowrocket-1028-copy
+DOMAIN-SUFFIX,net.coffee
+DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,dnsleak.com
+DOMAIN-SUFFIX,expressvpn.com
+DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,surfshark.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,perfect-privacy.com
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,vpnunlimited.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,whrq.net
+DOMAIN-SUFFIX,ip.la
+DOMAIN-SUFFIX,ipv6-test.com
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,whatismyip.com
