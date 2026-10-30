@@ -1,0 +1,41 @@
+# 规则名单，不是完整客户端配置。
+# 状态：外部候选，收纳不等于启用。
+# 格式转换日期：2026-10-30；本文件由来源名单转换生成，并非原文件逐字副本。
+# 来源标识：https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list | 6f4047cdbf6953cf5d9b38c4ccd6da7bc6f1acb91b7a87134f25d5b8f5d2408b
+# 相关许可：LICENSE_blackmatrix7.txt
+# 本次变更：移除云厂商整ASN规则，保留其余具体域名及IP规则；原候选文件仍保留。
+payload:
+  - "DOMAIN,browser-intake-datadoghq.com"
+  - "DOMAIN,chat.openai.com.cdn.cloudflare.net"
+  - "DOMAIN,openai-api.arkoselabs.com"
+  - "DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net"
+  - "DOMAIN,openaicomproductionae4b.blob.core.windows.net"
+  - "DOMAIN,production-openaicom-storage.azureedge.net"
+  - "DOMAIN,static.cloudflareinsights.com"
+  - "DOMAIN-SUFFIX,ai.com"
+  - "DOMAIN-SUFFIX,algolia.net"
+  - "DOMAIN-SUFFIX,api.statsig.com"
+  - "DOMAIN-SUFFIX,auth0.com"
+  - "DOMAIN-SUFFIX,chatgpt.com"
+  - "DOMAIN-SUFFIX,chatgpt.livekit.cloud"
+  - "DOMAIN-SUFFIX,client-api.arkoselabs.com"
+  - "DOMAIN-SUFFIX,events.statsigapi.net"
+  - "DOMAIN-SUFFIX,featuregates.org"
+  - "DOMAIN-SUFFIX,host.livekit.cloud"
+  - "DOMAIN-SUFFIX,identrust.com"
+  - "DOMAIN-SUFFIX,intercom.io"
+  - "DOMAIN-SUFFIX,intercomcdn.com"
+  - "DOMAIN-SUFFIX,launchdarkly.com"
+  - "DOMAIN-SUFFIX,oaistatic.com"
+  - "DOMAIN-SUFFIX,oaiusercontent.com"
+  - "DOMAIN-SUFFIX,observeit.net"
+  - "DOMAIN-SUFFIX,openai.com"
+  - "DOMAIN-SUFFIX,openaiapi-site.azureedge.net"
+  - "DOMAIN-SUFFIX,openaicom.imgix.net"
+  - "DOMAIN-SUFFIX,segment.io"
+  - "DOMAIN-SUFFIX,sentry.io"
+  - "DOMAIN-SUFFIX,stripe.com"
+  - "DOMAIN-SUFFIX,turn.livekit.cloud"
+  - "DOMAIN-KEYWORD,openai"
+  - "IP-CIDR,24.199.123.28/32,no-resolve"
+  - "IP-CIDR,64.23.132.171/32,no-resolve"
